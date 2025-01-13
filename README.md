@@ -1,2 +1,3 @@
 # demo
-This is demo.
+This is demo of github class
+# student
